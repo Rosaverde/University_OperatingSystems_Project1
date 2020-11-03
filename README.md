@@ -1,4 +1,4 @@
-# Uniwersity_OperatingSystems_Project1
+# University_OperatingSystems_Project1
 
 Using the expr command, write a bash / zsh shell script that acts as a simple number calculator
 integers with four basic actions (+ - * /) and
